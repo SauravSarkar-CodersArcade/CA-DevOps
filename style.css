@@ -51,6 +51,7 @@ footer p {
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
+    font-weight: bold;
 }
 
 #youtubeButton:hover {
